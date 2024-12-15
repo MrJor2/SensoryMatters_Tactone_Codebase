@@ -11,7 +11,11 @@ https://www.pjrc.com/teensy/td_download.html
 
 Then in the board manager window, download the teensy board manager. See icon in attached image.
 ![image](https://github.com/user-attachments/assets/0ac9dfa6-e6a6-4775-954b-4aef97a4c76f)
+
 Note: in older versions of arduino, the board manager can be found under tools>board manager
+
+After completing these steps, copy paste the code from this repo in an empty file, and save it, under whatever name you please. 
+Compile the code, and see if you are succesfull, otherwise feel free to open an issue on this repo. 
 
 ## Changeable Variables
 It is relevant to know that there are a few variables that are open to change and finetune when using tactone in a different setting. 
