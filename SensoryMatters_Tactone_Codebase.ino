@@ -19,8 +19,8 @@ int LDRtriggermap4[] = { lowerBound, lowerBound, lowerBound + 100, lowerBound, l
 int brightness = 120;
 
 // File list of the music files on the SD card that are loaded in. Can be altered if there are different music files.
-const char* filelist[8] = {
-  "HAPPYRITHEM.WAV", "HAPPYLEAD.WAV", "CALMRITHEM.WAV", "CALMLEAD.WAV", "SADRITHEM.WAV", "SADLEAD.WAV", "STRESSRITHEM.WAV", "STRESSLEAD.WAV"
+const char* filelist[8] = { rhythm
+  "PAD1RHYTHM.WAV", "PAD1LEADM.WAV", "PAD2RHYTHM.WAV", "PAD2RHYTHM.WAV", "PAD3RHYTHM.WAV", "PAD3LEAD.WAV", "PAD4RHYTHM.WAV", "PAD4LEAD.WAV"
 };
 
 
